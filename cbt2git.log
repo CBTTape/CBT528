@@ -1,0 +1,6 @@
+2023-04-03 00:57:15.624168 - Initialized conversion of CBT528
+2023-04-03 00:57:15.656030 - Received CBT.V504.FILE528.PDS from FILE528.XMI 
+2023-04-03 00:57:15.658482 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE528.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:57:15.659986 - Found @FILE528.txt (text/plain) in CBT.V504.FILE528.PDS, moved to PDS/@FILE528
+2023-04-03 00:57:15.661425 - Found DEFINES.rexx (text/plain) in CBT.V504.FILE528.PDS, moved to PDS/DEFINES
+2023-04-03 00:57:15.662433 - Found DEFINES$.jcl (text/plain) in CBT.V504.FILE528.PDS, moved to PDS/DEFINES$
